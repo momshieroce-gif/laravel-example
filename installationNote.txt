@@ -1,0 +1,8 @@
+composer global require laravel/installer
+
+check composer version
+composer --version
+
+install xampp and start it. 
+
+
