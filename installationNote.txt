@@ -6,3 +6,9 @@ composer --version
 install xampp and start it. 
 
 
+php artisan test
+check phpunit.xml 
+
+php artisan db:seed
+php artisan migrate 
+check migrations table
